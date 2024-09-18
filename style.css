@@ -50,6 +50,10 @@
     gap: 15px;
 }
 
+.agr-sim{
+    gap: 50px;
+}
+
 .nome-livro{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
